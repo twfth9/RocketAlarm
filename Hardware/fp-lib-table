@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Rocket_Alarm_Components")(type "KiCad")(uri "${KIPRJMOD}/Rocket_Alarm_Components")(options "")(descr ""))
+)
